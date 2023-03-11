@@ -10,8 +10,8 @@ Used technologies:
   - PostgreSQL
   - Thymeleaf
 
-<h4>Home page:</h4>
-<img src="https://user-images.githubusercontent.com/92166947/224472366-4907cd3c-97ca-41d6-984c-ebf3db4ea047.png" />
+<h5>Home page:</h5>
+![image](https://user-images.githubusercontent.com/92166947/224472366-4907cd3c-97ca-41d6-984c-ebf3db4ea047.png)
 
 Books page:
 ![image](https://user-images.githubusercontent.com/92166947/224472718-2a67d2f5-b20b-44ae-985a-942cd1705b03.png)
