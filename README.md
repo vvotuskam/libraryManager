@@ -10,7 +10,7 @@ Used technologies:
   - PostgreSQL
   - Thymeleaf
 
-Home page:
+<h1>Home page:</h1>
 ![image](https://user-images.githubusercontent.com/92166947/224472366-4907cd3c-97ca-41d6-984c-ebf3db4ea047.png)
 
 Books page:
@@ -23,8 +23,8 @@ User page if it has no books:
 ![image](https://user-images.githubusercontent.com/92166947/224472775-10079448-ea88-41f8-82d9-e50985da1695.png)
 
 User page if it has books:
-![image](https://user-images.githubusercontent.com/92166947/224472838-03586123-04ff-452f-9ad2-a9136c85eab3.png)
 Note: Books, that were taken more than 10 days ago (expired), are colored red
+![image](https://user-images.githubusercontent.com/92166947/224472838-03586123-04ff-452f-9ad2-a9136c85eab3.png)
 
 Book page if it is assigned:
 ![image](https://user-images.githubusercontent.com/92166947/224472912-fb1f1ec9-02fc-4057-be52-617080294b72.png)
